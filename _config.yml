@@ -220,6 +220,15 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  members:
+    output: true
+    permalink: /:collection/:path/
+  sops:
+    output: true
+    permalink: /:collection/:path/
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -242,7 +251,7 @@ pagination:
   # Set enabled to true to use paginate v2
   # enabled: true
   debug: false
-  collection: 'posts'
+  ection: 'posts'
   per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
