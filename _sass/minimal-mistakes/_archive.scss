@@ -46,7 +46,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  line-height: initial;
+  line-: initial;
   overflow: hidden;
   text-overflow: ellipsis;
 
@@ -221,7 +221,7 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 400px;
+      max-height: 350px;
     }
 
     @include breakpoint($medium) {
