@@ -228,6 +228,12 @@ collections:
   sops:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
