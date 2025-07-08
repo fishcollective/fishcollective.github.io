@@ -8,9 +8,9 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "Profile pic"
-    text: "Website, data wrangler"
+    text: "text 1"
   - title: "Responsibilities"
-    text: "Data wrangling"
+    text: "text 2"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,6 +23,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Add text about Brooke here.
+Add text about Di here.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}

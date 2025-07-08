@@ -1,16 +1,16 @@
 ---
-title: "Tim Langlois"
-excerpt: "The University of Western Australia"
+title: "Alan Jordan"
+excerpt: "The University of Tasmania"
 header:
-  image: "https://www.businessnews.com.au/sites/default/files/bn-di-person/Tim%20Langlois.jpg"
-  teaser: "https://www.businessnews.com.au/sites/default/files/bn-di-person/Tim%20Langlois.jpg"
+  image: "https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE"
+  teaser: "https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE"
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "Profile pic"
-    text: "text"
+    text: "Website, data wrangler"
   - title: "Responsibilities"
-    text: "text2"
+    text: "Data wrangling"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
