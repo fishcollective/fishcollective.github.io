@@ -2,8 +2,8 @@
 title: "Dianne McLean"
 excerpt: "AIMS"
 header:
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aims.gov.au%2Fabout%2Four-people%2Fdr-dianne-mclean&psig=AOvVaw3x324iq808xr3q_w_TZF7A&ust=1752043499430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjt2OvUrI4DFQAAAAAdAAAAABAE
-  teaser: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aims.gov.au%2Fabout%2Four-people%2Fdr-dianne-mclean&psig=AOvVaw3x324iq808xr3q_w_TZF7A&ust=1752043499430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjt2OvUrI4DFQAAAAAdAAAAABAE
+  image: https://www.aims.gov.au/sites/default/files/2024-03/di_mclean_300px.png
+  teaser: https://www.aims.gov.au/sites/default/files/2024-03/di_mclean_300px.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
