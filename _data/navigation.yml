@@ -2,8 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Membership"
-    url: /membership/
+  - title: "Members"
+    url: /members/
+  - title: "Projects"
+    url: /projects/
+  - title: "SOPs & Guides"
+    url: /sops/
   - title: "Media"
     url: /media/
   # - title: "About"
