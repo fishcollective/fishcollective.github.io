@@ -2,13 +2,12 @@
 title: "Neville Barrett"
 excerpt: "The University of Tasmania"
 header:
-  image: /assets/images/profiles/nev_barrett.jpg
   teaser: /assets/images/profiles/nev_barrett.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/nev_barrett.jpg
     image_alt: "Profile pic"
-    text: "text"
+    text: "Data provider and user"
   - title: "Responsibilities"
     text: "text1"
 gallery:

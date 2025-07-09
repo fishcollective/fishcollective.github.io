@@ -2,11 +2,10 @@
 title: "Euan Harvey"
 excerpt: "Curtin University"
 header:
-  image: https://i1.rgstatic.net/ii/profile.image/272511149539332-1441983129393_Q512/Euan-Harvey.jpg
   teaser: https://i1.rgstatic.net/ii/profile.image/272511149539332-1441983129393_Q512/Euan-Harvey.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://i1.rgstatic.net/ii/profile.image/272511149539332-1441983129393_Q512/Euan-Harvey.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

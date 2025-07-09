@@ -2,7 +2,6 @@
 title: "Mike Cappo"
 excerpt: "The Australian Institute of Marine Science?"
 header:
-  image: 
   teaser: 
 sidebar:
   - title: "Role"

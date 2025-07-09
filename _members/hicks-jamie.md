@@ -2,11 +2,10 @@
 title: "Jamie Hicks"
 excerpt: "Department of Environment, Water & Natural Resources, SA"
 header:
-  image: https://pbs.twimg.com/profile_images/1060474099636391938/NG1LuwBP_400x400.jpg
   teaser: https://pbs.twimg.com/profile_images/1060474099636391938/NG1LuwBP_400x400.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://pbs.twimg.com/profile_images/1060474099636391938/NG1LuwBP_400x400.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

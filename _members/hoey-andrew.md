@@ -2,11 +2,10 @@
 title: "Andrew Hoey"
 excerpt: "James Cook University"
 header:
-  image: /assets/images/profiles/andrew_hoey.png
   teaser: /assets/images/profiles/andrew_hoey.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/andrew_hoey.png
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

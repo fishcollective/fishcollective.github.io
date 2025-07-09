@@ -2,11 +2,10 @@
 title: "Daniel Ierodiaconou"
 excerpt: "Deakin University"
 header:
-  image: https://pbs.twimg.com/profile_images/3571835057/5818a8030de3086dbd3eddfb326c7d50_400x400.jpeg
   teaser: https://pbs.twimg.com/profile_images/3571835057/5818a8030de3086dbd3eddfb326c7d50_400x400.jpeg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://pbs.twimg.com/profile_images/3571835057/5818a8030de3086dbd3eddfb326c7d50_400x400.jpeg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

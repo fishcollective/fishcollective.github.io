@@ -2,11 +2,10 @@
 title: "Richard Evans"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
 header:
-  image: https://media.licdn.com/dms/image/v2/C4D03AQGV1Sr7DCu-VQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517467388592?e=2147483647&v=beta&t=eerJOso9WKWueVbKHXIRQ8hsRpyaQ2niYU926ERiPxo
   teaser: https://media.licdn.com/dms/image/v2/C4D03AQGV1Sr7DCu-VQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517467388592?e=2147483647&v=beta&t=eerJOso9WKWueVbKHXIRQ8hsRpyaQ2niYU926ERiPxo
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://media.licdn.com/dms/image/v2/C4D03AQGV1Sr7DCu-VQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517467388592?e=2147483647&v=beta&t=eerJOso9WKWueVbKHXIRQ8hsRpyaQ2niYU926ERiPxo
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

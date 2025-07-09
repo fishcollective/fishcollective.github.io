@@ -2,11 +2,10 @@
 title: "Charlie Huveneers"
 excerpt: "Flinders University"
 header:
-  image: /assets/images/profiles/charlie_huveneers.jpg
   teaser: /assets/images/profiles/charlie_huveneers.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/charlie_huveneers.jpg
     image_alt: "Profile pic"
     text: "text"
   - title: "Responsibilities"

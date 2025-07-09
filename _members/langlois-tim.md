@@ -2,11 +2,10 @@
 title: "Tim Langlois"
 excerpt: "The University of Western Australia"
 header:
-  image: /assets/images/profiles/tim_langlois.jpg
   teaser: /assets/images/profiles/tim_langlois.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/tim_langlois.jpg
     image_alt: "Profile pic"
     text: "text"
   - title: "Responsibilities"

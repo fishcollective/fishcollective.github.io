@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/profiles/tom_holmes.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/tom_holmes.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

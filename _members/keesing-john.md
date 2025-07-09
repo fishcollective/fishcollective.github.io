@@ -2,11 +2,10 @@
 title: "John Keesing"
 excerpt: "CSIRO"
 header:
-  image: /assets/images/profiles/john_keesing.jpg
   teaser: /assets/images/profiles/john_keesing.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/john_keesing.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

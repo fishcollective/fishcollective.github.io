@@ -2,11 +2,10 @@
 title: "Brooke Gibbons"
 excerpt: "The University of Western Australia"
 header:
-  image: "https://www.witwa.org.au/wp-content/uploads/2023/11/Brooke_Gibbons-400x400.png"
   teaser: "https://www.witwa.org.au/wp-content/uploads/2023/11/Brooke_Gibbons-400x400.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://www.witwa.org.au/wp-content/uploads/2023/11/Brooke_Gibbons-400x400.png
     image_alt: "Profile pic"
     text: "Website, data wrangler"
   - title: "Responsibilities"

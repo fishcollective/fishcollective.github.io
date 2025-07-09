@@ -2,11 +2,10 @@
 title: "Nathan Knott"
 excerpt: "NSW Department of Primary Industries"
 header:
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
   teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

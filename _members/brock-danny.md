@@ -2,11 +2,10 @@
 title: "Danny Brock"
 excerpt: "Department of Environment, Water & Natural Resources, SA"
 header:
-  image: https://reeflifesurvey.com/wp-content/uploads/2019/02/DB.png
   teaser: https://reeflifesurvey.com/wp-content/uploads/2019/02/DB.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://reeflifesurvey.com/wp-content/uploads/2019/02/DB.png
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

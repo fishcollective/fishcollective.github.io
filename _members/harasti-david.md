@@ -2,11 +2,10 @@
 title: "David Harasti"
 excerpt: "NSW Department of Primary Industries"
 header:
-  image: /assets/images/profiles/david_harasti.jpg
   teaser: /assets/images/profiles/david_harasti.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/david_harasti.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

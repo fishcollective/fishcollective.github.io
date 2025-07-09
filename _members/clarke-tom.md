@@ -2,11 +2,10 @@
 title: "Tom Clarke"
 excerpt: "Flinders University"
 header:
-  image: https://pbs.twimg.com/profile_images/1088679829019320320/NoQsXmT3_400x400.jpg
   teaser: https://pbs.twimg.com/profile_images/1088679829019320320/NoQsXmT3_400x400.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://pbs.twimg.com/profile_images/1088679829019320320/NoQsXmT3_400x400.jpg
     image_alt: "Profile pic"
     text: "text"
   - title: "Responsibilities"

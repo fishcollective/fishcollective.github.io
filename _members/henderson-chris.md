@@ -2,11 +2,10 @@
 title: "Chris Henderson"
 excerpt: "University of the Sunshine Coast"
 header:
-  image: https://research.usc.edu.au/rep/researcherProfileImage?userId=3712174870002621&institution=61USC_INST
   teaser: https://research.usc.edu.au/rep/researcherProfileImage?userId=3712174870002621&institution=61USC_INST
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://research.usc.edu.au/rep/researcherProfileImage?userId=3712174870002621&institution=61USC_INST
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

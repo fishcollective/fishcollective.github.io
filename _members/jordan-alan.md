@@ -2,11 +2,10 @@
 title: "Alan Jordan"
 excerpt: "The University of Tasmania"
 header:
-  image: "https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE"
   teaser: "https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE
     image_alt: "Profile pic"
     text: "Website, data wrangler"
   - title: "Responsibilities"
