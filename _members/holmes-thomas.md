@@ -2,7 +2,6 @@
 title: "Thomas Holmes"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
 header:
-  image: /assets/images/profiles/tom_holmes.jpg
   teaser: /assets/images/profiles/tom_holmes.jpg
 sidebar:
   - title: "Role"
@@ -23,6 +22,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Add text about Di here.
+Add text about Tom here.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
