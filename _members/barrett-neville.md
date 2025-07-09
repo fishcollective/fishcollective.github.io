@@ -10,8 +10,8 @@ sidebar:
     text: "University of Tasmania"
   - title: "Role in the Fish Collective"
     text: "Data provider, Data user"
-  - title: "Links"
-    nav: nevlinks
+  - title: "Google Scholar"
+    text: '<a href="https://scholar.google.com/citations?hl=en&user=a3aSeHoAAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar" alt="Google Scholar"></a>'
 gallery:
   - url: /assets/images/highlights/nev_barrett/1.jpg
     image_path: assets/images/highlights/nev_barrett/1.jpg
