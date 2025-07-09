@@ -10,8 +10,6 @@ sidebar:
     text: "University of Tasmania"
   - title: "Role in the Fish Collective"
     text: "Data provider, Data user"
-  - title: "Google Scholar"
-    text: '<a href="https://scholar.google.com/citations?hl=en&user=a3aSeHoAAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar" alt="Google Scholar"></a>'
   - title: "Links"
     text: '<a href="https://scholar.google.com/citations?user=a3aSeHoAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fab fa-google"></i> Google Scholar</a>'
 gallery:
@@ -35,4 +33,4 @@ Associate Professor Neville Barrett is a coastal and shelf ecologist dedicated t
 Marine biology, temperate reef ecology, reef fish biology, estuaries, conservation biology
 
 ## Research Highlights
-{% include gallery caption="Here are some examples from Nev's work." %}
+{% include gallery caption=" " %}
