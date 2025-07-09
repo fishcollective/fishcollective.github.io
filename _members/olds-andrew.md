@@ -2,11 +2,10 @@
 title: "Andrew Olds"
 excerpt: "University of the Sunshine Coast"
 header:
-  image: https://i1.rgstatic.net/ii/profile.image/11431281086872175-1664342750385_Q512/Andrew-Olds.jpg
   teaser: https://i1.rgstatic.net/ii/profile.image/11431281086872175-1664342750385_Q512/Andrew-Olds.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://i1.rgstatic.net/ii/profile.image/11431281086872175-1664342750385_Q512/Andrew-Olds.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

@@ -2,11 +2,10 @@
 title: "Ben Saunders"
 excerpt: "Curtin University"
 header:
-  image: https://media.licdn.com/dms/image/v2/D5603AQFIpfbXfZB5Ew/profile-displayphoto-shrink_200_200/B56ZWypbDyGUAY-/0/1742458958891?e=2147483647&v=beta&t=oNifgYtyqgdmFbplA9yjQdlDvhZTL5z_lS70riauKQA
   teaser: https://media.licdn.com/dms/image/v2/D5603AQFIpfbXfZB5Ew/profile-displayphoto-shrink_200_200/B56ZWypbDyGUAY-/0/1742458958891?e=2147483647&v=beta&t=oNifgYtyqgdmFbplA9yjQdlDvhZTL5z_lS70riauKQA
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://media.licdn.com/dms/image/v2/D5603AQFIpfbXfZB5Ew/profile-displayphoto-shrink_200_200/B56ZWypbDyGUAY-/0/1742458958891?e=2147483647&v=beta&t=oNifgYtyqgdmFbplA9yjQdlDvhZTL5z_lS70riauKQA
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

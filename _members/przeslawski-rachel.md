@@ -2,11 +2,10 @@
 title: "Rachel Przeslawski"
 excerpt: "The University of Tasmania"
 header:
-  image: /assets/images/profiles/rachel_przeslawski.jpg
   teaser: /assets/images/profiles/rachel_przeslawski.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/rachel_przeslawski.jpg
     image_alt: "Profile pic"
     text: "Website, data wrangler"
   - title: "Responsibilities"

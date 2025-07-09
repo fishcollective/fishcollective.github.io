@@ -2,11 +2,10 @@
 title: "Ben Radford"
 excerpt: "The Australian Institute of Marine Science"
 header:
-  image: https://spaceandearthconference.com/wp-content/uploads/2023/10/Ben-Radford.png
   teaser: https://spaceandearthconference.com/wp-content/uploads/2023/10/Ben-Radford.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://spaceandearthconference.com/wp-content/uploads/2023/10/Ben-Radford.png
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

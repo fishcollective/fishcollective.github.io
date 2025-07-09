@@ -2,11 +2,10 @@
 title: "Mike Travers"
 excerpt: "Department of Primary Industries and Regional Development, WA"
 header:
-  image: https://i1.rgstatic.net/ii/profile.image/583257729015808-1516070887197_Q512/Michael-Travers.jpg
   teaser: https://i1.rgstatic.net/ii/profile.image/583257729015808-1516070887197_Q512/Michael-Travers.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://i1.rgstatic.net/ii/profile.image/583257729015808-1516070887197_Q512/Michael-Travers.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

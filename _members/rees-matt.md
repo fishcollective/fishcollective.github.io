@@ -2,11 +2,11 @@
 title: "Matthew Rees"
 excerpt: "NSW Department of Primary Industries"
 header:
-  image: https://media.licdn.com/dms/image/v2/C5603AQH5irPGFVJ24g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630882759053?e=2147483647&v=beta&t=UOUunMt7mZZhbMtEIgmosSiUs4Uy3T9FoYgaoTE_kLQ
+  image: 
   teaser: https://media.licdn.com/dms/image/v2/C5603AQH5irPGFVJ24g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630882759053?e=2147483647&v=beta&t=UOUunMt7mZZhbMtEIgmosSiUs4Uy3T9FoYgaoTE_kLQ
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://media.licdn.com/dms/image/v2/C5603AQH5irPGFVJ24g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630882759053?e=2147483647&v=beta&t=UOUunMt7mZZhbMtEIgmosSiUs4Uy3T9FoYgaoTE_kLQ
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

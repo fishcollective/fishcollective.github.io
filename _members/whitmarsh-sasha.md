@@ -2,11 +2,10 @@
 title: "Sasha Whitmarsh"
 excerpt: "Deakin University"
 header:
-  image: /assets/images/profiles/sasha_whitmarsh.jpg
   teaser: /assets/images/profiles/sasha_whitmarsh.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/sasha_whitmarsh.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

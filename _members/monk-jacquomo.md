@@ -2,11 +2,10 @@
 title: "Jacquomo Monk"
 excerpt: "The University of Tasmania"
 header:
-  image: /assets/images/profiles/jac_monk.jpg
   teaser: /assets/images/profiles/jac_monk.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/jac_monk.jpg
     image_alt: "Profile pic"
     text: "text"
   - title: "Responsibilities"

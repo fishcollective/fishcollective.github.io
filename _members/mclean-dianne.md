@@ -2,11 +2,10 @@
 title: "Dianne McLean"
 excerpt: "The Australian Institute of Marine Science"
 header:
-  image: /assets/images/profiles/dianne_mclean.png
   teaser: /assets/images/profiles/dianne_mclean.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/profiles/dianne_mclean.png
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

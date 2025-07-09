@@ -2,11 +2,10 @@
 title: "Shaun Wilson"
 excerpt: "The Australian Institute of Marine Science"
 header:
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKxQsqPiFIHRT5fg1AHx0igbG-dWoIWsN7g&s
   teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKxQsqPiFIHRT5fg1AHx0igbG-dWoIWsN7g&s
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKxQsqPiFIHRT5fg1AHx0igbG-dWoIWsN7g&s
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

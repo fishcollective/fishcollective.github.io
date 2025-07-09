@@ -2,11 +2,10 @@
 title: "Ben Scoulding"
 excerpt: "CSIRO"
 header:
-  image: https://i1.rgstatic.net/ii/profile.image/299751204507651-1448477664757_Q512/Ben-Scoulding.jpg
   teaser: https://i1.rgstatic.net/ii/profile.image/299751204507651-1448477664757_Q512/Ben-Scoulding.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://i1.rgstatic.net/ii/profile.image/299751204507651-1448477664757_Q512/Ben-Scoulding.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"

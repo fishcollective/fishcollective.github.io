@@ -2,11 +2,10 @@
 title: "Conrad Speed"
 excerpt: "The Australian Institute of Marine Science"
 header:
-  image: https://www.aims.gov.au/sites/default/files/2024-03/conrad_speed_300px.jpg
   teaser: https://www.aims.gov.au/sites/default/files/2024-03/conrad_speed_300px.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://www.aims.gov.au/sites/default/files/2024-03/conrad_speed_300px.jpg
     image_alt: "Profile pic"
     text: "text 1"
   - title: "Responsibilities"
