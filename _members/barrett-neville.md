@@ -11,7 +11,7 @@ sidebar:
   - title: "Role in the Fish Collective"
     text: "Data provider, Data user"
   - title: "Links"
-    text: "[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=a3aSeHoAAAAJ)"
+    nav: nevlinks
 gallery:
   - url: /assets/images/highlights/nev_barrett/1.jpg
     image_path: assets/images/highlights/nev_barrett/1.jpg
@@ -32,5 +32,5 @@ Associate Professor Neville Barrett is a coastal and shelf ecologist dedicated t
 ## Research Interests
 Marine biology, temperate reef ecology, reef fish biology, estuaries, conservation biology
 
-## Highlights
+## Research Highlights
 {% include gallery caption="Here are some examples from Nev's work." %}

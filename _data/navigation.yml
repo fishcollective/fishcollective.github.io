@@ -18,3 +18,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+nevlinks:
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?hl=en&user=a3aSeHoAAAAJ
+    icon: "fas fa-fw fa-link"
