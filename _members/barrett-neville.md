@@ -13,9 +13,9 @@ sidebar:
   - title: "Links"
     text: "[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=a3aSeHoAAAAJ)"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/highlights/nev_barrett/1.jpg
+    image_path: assets/images/highlights/nev_barrett/1.jpg
+    alt: "Highlight 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -23,7 +23,7 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 share: false
-related: true
+related: false
 ---
 
 ## Bio
@@ -32,5 +32,5 @@ Associate Professor Neville Barrett is a coastal and shelf ecologist dedicated t
 ## Research Interests
 Marine biology, temperate reef ecology, reef fish biology, estuaries, conservation biology
 
-## Images
+## Highlights
 {% include gallery caption="Here are some examples from Nev's work." %}

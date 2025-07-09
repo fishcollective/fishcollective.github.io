@@ -22,6 +22,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Add text about Di here.
+## Bio
+Associate Professor Neville Barrett is a coastal and shelf ecologist dedicated to understanding marine biodiversity and ensuring its future. With a PhD in Temperate Reef Fish Biology and Ecology from the University of Tasmania, Neville focuses on biodiversity inventory and long-term monitoring. His work directly informs sustainable management practices, including the design and implementation of Marine Protected Areas (MPAs). 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+## Research Interests
+Marine biology, temperate reef ecology, reef fish biology, estuaries, conservation biology
+
+## Highlights
+{% include gallery caption="Here are some examples from Danny's work." %}
