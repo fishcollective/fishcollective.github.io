@@ -2,8 +2,8 @@
 title: "Jordan Goetze"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
 header:
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWe3yq-eMYwwtc5x4Y8ZcxsafQZ9ih2QKEHA&s
-  teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWe3yq-eMYwwtc5x4Y8ZcxsafQZ9ih2QKEHA&s
+  image: /assets/images/profiles/jordan_goetze.jpg
+  teaser: /assets/images/profiles/jordan_goetze.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

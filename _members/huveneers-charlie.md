@@ -2,8 +2,8 @@
 title: "Charlie Huveneers"
 excerpt: "Flinders University"
 header:
-  image: https://www.flinders.edu.au/content/dam/images/giving/professor-charlie-huveneers.jpg/_jcr_content/renditions/970.jpg
-  teaser: https://www.flinders.edu.au/content/dam/images/giving/professor-charlie-huveneers.jpg/_jcr_content/renditions/970.jpg
+  image: /assets/images/profiles/charlie_huveneers.jpg
+  teaser: /assets/images/profiles/charlie_huveneers.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

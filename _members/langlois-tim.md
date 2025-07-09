@@ -2,8 +2,8 @@
 title: "Tim Langlois"
 excerpt: "The University of Western Australia"
 header:
-  image: "https://www.businessnews.com.au/sites/default/files/bn-di-person/Tim%20Langlois.jpg"
-  teaser: "https://www.businessnews.com.au/sites/default/files/bn-di-person/Tim%20Langlois.jpg"
+  image: /assets/images/profiles/tim_langlois.jpg
+  teaser: /assets/images/profiles/tim_langlois.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

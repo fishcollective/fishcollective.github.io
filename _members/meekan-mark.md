@@ -2,8 +2,8 @@
 title: "Mark Meekan"
 excerpt: "The University of Western Australia"
 header:
-  image: https://research-repository.uwa.edu.au/files-asset/252342465/Meekan_Mark_crop_headshot.jpg/
-  teaser: https://research-repository.uwa.edu.au/files-asset/252342465/Meekan_Mark_crop_headshot.jpg/
+  image: /assets/images/profiles/mark_meekan.jpg
+  teaser: /assets/images/profiles/mark_meekan.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

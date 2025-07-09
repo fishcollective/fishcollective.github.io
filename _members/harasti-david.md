@@ -2,8 +2,8 @@
 title: "David Harasti"
 excerpt: "NSW Department of Primary Industries"
 header:
-  image: https://images.squarespace-cdn.com/content/v1/5ebb3517f3c03f0e621e7df5/1599179944158-DWSUCX40NP2HKJPBCJ3D/David-Harasti.png
-  teaser: https://images.squarespace-cdn.com/content/v1/5ebb3517f3c03f0e621e7df5/1599179944158-DWSUCX40NP2HKJPBCJ3D/David-Harasti.png
+  image: /assets/images/profiles/david_harasti.jpg
+  teaser: /assets/images/profiles/david_harasti.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -2,8 +2,8 @@
 title: "Neville Barrett"
 excerpt: "The University of Tasmania"
 header:
-  image: https://www.utas.edu.au/__data/assets/image/0010/1597600/nev_barrett_07.width-670.jpg
-  teaser: https://www.utas.edu.au/__data/assets/image/0010/1597600/nev_barrett_07.width-670.jpg
+  image: /assets/images/profiles/nev_barrett.jpg
+  teaser: /assets/images/profiles/nev_barrett.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

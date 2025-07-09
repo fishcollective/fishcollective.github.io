@@ -2,8 +2,8 @@
 title: "Rachel Przeslawski"
 excerpt: "The University of Tasmania"
 header:
-  image: https://www.stemwomen.org.au/sites/default/files/styles/profile_horizontal_mask/public/2020-07/Przeslawski_2019%20%2819%29.JPG?h=80757438&itok=79ed6NUw
-  teaser: https://www.stemwomen.org.au/sites/default/files/styles/profile_horizontal_mask/public/2020-07/Przeslawski_2019%20%2819%29.JPG?h=80757438&itok=79ed6NUw
+  image: /assets/images/profiles/rachel_przeslawski.jpg
+  teaser: /assets/images/profiles/rachel_przeslawski.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -2,8 +2,8 @@
 title: "Dianne McLean"
 excerpt: "The Australian Institute of Marine Science"
 header:
-  image: https://www.aims.gov.au/sites/default/files/2024-03/di_mclean_300px.png
-  teaser: https://www.aims.gov.au/sites/default/files/2024-03/di_mclean_300px.png
+  image: /assets/images/profiles/dianne_mclean.png
+  teaser: /assets/images/profiles/dianne_mclean.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
