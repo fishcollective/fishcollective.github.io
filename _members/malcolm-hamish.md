@@ -2,8 +2,8 @@
 title: "Hamish Malcolm"
 excerpt: "NSW Department of Primary Industries"
 header:
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuhcyLSNV0yExzrQankyAWjeTuvCZFmihOg&s
-  teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuhcyLSNV0yExzrQankyAWjeTuvCZFmihOg&s
+  image: /assets/images/profiles/hamish_malcolm.jpg
+  teaser: /assets/images/profiles/hamish_malcolm.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

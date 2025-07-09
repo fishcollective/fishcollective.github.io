@@ -2,8 +2,8 @@
 title: "John Keesing"
 excerpt: "CSIRO"
 header:
-  image: https://www.conservation.wa.gov.au/sites/cpc/sites/default/files/inline-images/John%20Keesing3.jpg
-  teaser: https://www.conservation.wa.gov.au/sites/cpc/sites/default/files/inline-images/John%20Keesing3.jpg
+  image: /assets/images/profiles/john_keesing.jpg
+  teaser: /assets/images/profiles/john_keesing.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

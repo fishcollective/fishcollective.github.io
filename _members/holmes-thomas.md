@@ -2,8 +2,8 @@
 title: "Thomas Holmes"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
 header:
-  image: https://atrc.au/wp-content/uploads/2018/08/247x279-Tom-Holmes.jpg
-  teaser: https://atrc.au/wp-content/uploads/2018/08/247x279-Tom-Holmes.jpg
+  image: /assets/images/profiles/tom_holmes.jpg
+  teaser: /assets/images/profiles/tom_holmes.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

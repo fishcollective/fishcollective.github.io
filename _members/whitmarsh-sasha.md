@@ -2,8 +2,8 @@
 title: "Sasha Whitmarsh"
 excerpt: "Deakin University"
 header:
-  image: https://static.wixstatic.com/media/a0999b_b50a6afe249e4e809cab3ca9e74eb1fd~mv2.jpg/v1/crop/x_0,y_0,w_1380,h_1374/fill/w_422,h_434,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/sasha1%5B8044%5D.jpg
-  teaser: https://static.wixstatic.com/media/a0999b_b50a6afe249e4e809cab3ca9e74eb1fd~mv2.jpg/v1/crop/x_0,y_0,w_1380,h_1374/fill/w_422,h_434,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/sasha1%5B8044%5D.jpg
+  image: /assets/images/profiles/sasha_whitmarsh.jpg
+  teaser: /assets/images/profiles/sasha_whitmarsh.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -2,8 +2,8 @@
 title: "Andrew Hoey"
 excerpt: "James Cook University"
 header:
-  image: https://gbrrestoration.org/wp-content/uploads/2023/11/Untitled-design-5.png
-  teaser: https://gbrrestoration.org/wp-content/uploads/2023/11/Untitled-design-5.png
+  image: /assets/images/profiles/andrew_hoey.png
+  teaser: /assets/images/profiles/andrew_hoey.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

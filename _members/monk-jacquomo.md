@@ -2,8 +2,8 @@
 title: "Jacquomo Monk"
 excerpt: "The University of Tasmania"
 header:
-  image: https://rsecjournal.blog/wp-content/uploads/2021/10/ae-jac-monk.jpg
-  teaser: https://rsecjournal.blog/wp-content/uploads/2021/10/ae-jac-monk.jpg
+  image: /assets/images/profiles/jac_monk.jpg
+  teaser: /assets/images/profiles/jac_monk.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
