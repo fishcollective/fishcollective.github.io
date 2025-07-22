@@ -14,9 +14,10 @@ header:
 {% for member in site.members %}
   <div class="member-card">
     <a href="{{ member.external_url | default: member.url }}" target="_blank" rel="noopener">
-      <img src="{{ member.image }}" alt="{{ member.name }}">
-      <h3>{{ member.name }}</h3>
+      <img src="{{ member.image }}" alt="{{ member.title }}">
+      <h3>{{ member.title }}</h3>
     </a>
     <p>{{ member.organisation }}</p>
   </div>
 {% endfor %}
+
