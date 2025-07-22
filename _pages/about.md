@@ -5,7 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
 permalink: /about/
-excerpt: "About the fish collective."
 toc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Members of the Fish Collective
-layout: collection
+layout: splash
 permalink: /members/
 collection: members
 entries_layout: grid
