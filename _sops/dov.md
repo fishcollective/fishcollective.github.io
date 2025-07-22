@@ -1,7 +1,8 @@
 ---
-title: "stereo-BRUVs"
-excerpt: "Field Manual"
-image: /assets/images/media/ardc.png
+title: "stereo-DOVs"
+excerpt: "A field and video analysis guide for diver operated stereo-video"
+image: /assets/images/sops/dov.jpg
+external_url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13189
 share: false
 related: false
 ---
