@@ -156,15 +156,21 @@ search: false
   object-fit: cover;
 }
 
-.sop-content {
-  padding: 1rem;
-}
-.sop-title,
-.sop-excerpt {
-  margin: 0;
-}
 .sop-title {
-  margin-bottom: 0.5rem;
+  margin: 1rem 1rem 0.5rem;  /* top, sides, bottom */
+  font-size: 1.1rem;
+  color: #005f73;
+  text-align: left;
+}
+
+.sop-excerpt {
+  margin: 1rem 1rem 0.5rem;  /* top, sides, bottom */
+  padding: 0.5rem 0;   /* vertical spacing inside block */
+  color: #444;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  text-align: left;
+  border-top: 1px solid #e0e0e0; /* optional: subtle top border */
 }
 
 /* responsive: 2 columns on medium, 1 column on small */

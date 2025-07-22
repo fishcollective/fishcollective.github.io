@@ -18,10 +18,11 @@ header:
         <div class="sop-image">
           <img src="{{ sop.image }}" alt="{{ sop.title }}">
         </div>
-        <div class="sop-content">
-  <h3 class="sop-title">{{ sop.title }}</h3>
-  <p class="sop-excerpt">{{ sop.excerpt }}</p>
-</div>
+        <div>
+        <h3 class="sop-title">{{ sop.title }}</h3></br>
+      </a>
+      <p class="sop-excerpt">{{ sop.excerpt }}</p>
+      </div>
                 <a class="read-more" href="{{ media.external_url | default: media.url }}" target="_blank" rel="noopener">
             View Standard Operating Procedure →
           </a>
