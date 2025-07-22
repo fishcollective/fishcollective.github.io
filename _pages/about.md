@@ -1,7 +1,10 @@
 ---
+layout: splash
+title: "About us"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
 permalink: /about/
-layout: single
-title: "About"
 excerpt: "About the fish collective."
 toc: true
 ---
