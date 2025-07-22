@@ -1,11 +1,12 @@
 ---
 permalink: /media/
-layout: collection
+layout: splash
 title: "Media"
 excerpt: ""
 toc: false
-collection: media
-entries_layout: grid
 classes: wide
+header:
+  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
+  overlay_filter: 0.3
 ---
 

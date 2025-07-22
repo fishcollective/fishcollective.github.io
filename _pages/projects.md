@@ -1,11 +1,12 @@
 ---
 permalink: /projects/
-layout: collection
+layout: splash
 title: "Projects & Initiatives"
 excerpt: ""
 toc: false
-collection: projects
-entries_layout: grid
 classes: wide
+header:
+  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
+  overlay_filter: 0.3
 ---
 

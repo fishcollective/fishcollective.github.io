@@ -1,11 +1,12 @@
 ---
 permalink: /sops/
-layout: collection
+layout: splash
 title: "Standard Operating Procedures, Training Materials & Quality Control Tools"
 excerpt: ""
 toc: false
-collection: sops
-entries_layout: grid
 classes: wide
+header:
+  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
+  overlay_filter: 0.3
 ---
 
