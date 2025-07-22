@@ -1,0 +1,14 @@
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+
+  <a class="archive__item-link" href="{{ entry.external_url | default: entry.url }}" target="_blank" rel="noopener">
+    {% if entry.image %}
+      <img class="archive__item-image" src="{{ entry.image }}" alt="{{ entry.title }}">
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">{{ entry.title }}</h2>
+  </a>
+
+  {% if entry.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description">{{ entry.excerpt | markdownify }}</p>
+  {% endif %}
+
+</article>
