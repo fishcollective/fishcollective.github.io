@@ -10,3 +10,22 @@ header:
   overlay_filter: 0.3
 ---
 
+## Standard Operating Procedures
+<div class="sops-grid">
+  {% for sop in site.sops %}
+    <div class="sops-card">
+      <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
+        <div class="sop-image">
+          <img src="{{ sop.image }}" alt="{{ sop.title }}">
+        </div>
+        <h3 class="sop-title">{{ sop.title }}</h3>
+      </a>
+      <p class="sop-excerpt">{{ sop.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+## Quality Control Tools
+
+
+## Training Materials
