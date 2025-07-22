@@ -37,8 +37,54 @@ search: false
   margin-top: 0.5rem;
 }
 
+.media-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem; /* space between cards */
+  padding: 1rem 0;
+}
+
+.media-card {
+  display: flex;
+  flex-direction: row-reverse; /* image on the right */
+  align-items: center;
+  gap: 2rem;
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
 .media-card img {
-  max-width: 50%;
-  border-radius: 5%;
+  max-width: 300px;
   height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.media-card h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #005f73;
+}
+
+.media-card a {
+  text-decoration: none;
+}
+
+.media-subtitle {
+  color: #444;
+  margin-top: 0.5rem;
+}
+
+/* Optional: Responsive stacking on small screens */
+@media (max-width: 768px) {
+  .media-card {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .media-card img {
+    max-width: 100%;
+  }
 }
