@@ -93,7 +93,7 @@ search: false
   text-align: left;
   line-height: 1.4;
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Number of lines before truncation */
+  -webkit-line-clamp: 4; /* Number of lines before truncation */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -166,7 +166,7 @@ search: false
 
 .sop-excerpt {
   margin: 1rem 1rem 0.5rem;  /* top, sides, bottom */
-  padding: 1rem 0;   /* vertical spacing inside block */
+  padding: 1rem;   /* vertical spacing inside block */
   color: #444;
   font-size: 0.95rem;
   line-height: 1.4;
