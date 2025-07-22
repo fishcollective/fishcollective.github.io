@@ -13,11 +13,18 @@ header:
 <div class="media-grid">
   {% for media in site.media %}
     <div class="media-card">
-      <a href="{{ media.external_url | default: media.url }}" target="_blank" rel="noopener">
+      <div class="media-text">
+        <a href="{{ media.external_url | default: media.url }}" target="_blank" rel="noopener">
+          <h3>{{ media.title }}</h3>
+        </a>
+        <p class="media-subtitle">{{ media.excerpt }}</p>
+        {% if media.excerpt_long %}
+          <p class="media-subtitle-long">{{ media.excerpt_long }}</p>
+        {% endif %}
+      </div>
+      <div class="media-image">
         <img src="{{ media.image }}" alt="{{ media.title }}">
-        <h3>{{ media.title }}</h3>
-      </a>
-      <p class="media-subtitle">{{ media.excerpt }}</p>
+      </div>
     </div>
   {% endfor %}
 </div>
