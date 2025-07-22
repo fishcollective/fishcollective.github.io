@@ -1,6 +1,7 @@
 ---
 title: "Richard Evans"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
+image: https://media.licdn.com/dms/image/v2/C4D03AQGV1Sr7DCu-VQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517467388592?e=2147483647&v=beta&t=eerJOso9WKWueVbKHXIRQ8hsRpyaQ2niYU926ERiPxo
 header:
   teaser: https://media.licdn.com/dms/image/v2/C4D03AQGV1Sr7DCu-VQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517467388592?e=2147483647&v=beta&t=eerJOso9WKWueVbKHXIRQ8hsRpyaQ2niYU926ERiPxo
 sidebar:

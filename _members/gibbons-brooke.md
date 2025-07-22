@@ -1,6 +1,7 @@
 ---
 title: "Brooke Gibbons"
 excerpt: "The University of Western Australia"
+image: https://www.witwa.org.au/wp-content/uploads/2023/11/Brooke_Gibbons-400x400.png
 header:
   teaser: "https://www.witwa.org.au/wp-content/uploads/2023/11/Brooke_Gibbons-400x400.png"
 sidebar:

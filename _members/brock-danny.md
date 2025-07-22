@@ -1,6 +1,7 @@
 ---
 title: "Danny Brock"
 excerpt: "Department of Environment, Water & Natural Resources, SA"
+image: https://reeflifesurvey.com/wp-content/uploads/2019/02/DB.png
 header:
   teaser: https://reeflifesurvey.com/wp-content/uploads/2019/02/DB.png
 sidebar:

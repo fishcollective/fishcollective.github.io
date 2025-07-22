@@ -1,6 +1,7 @@
 ---
 title: "Tom Clarke"
 excerpt: "Flinders University"
+image: https://pbs.twimg.com/profile_images/1088679829019320320/NoQsXmT3_400x400.jpg
 header:
   teaser: https://pbs.twimg.com/profile_images/1088679829019320320/NoQsXmT3_400x400.jpg
 sidebar:
