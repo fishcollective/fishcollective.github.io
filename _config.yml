@@ -223,7 +223,7 @@ kramdown:
 # Collections
 collections:
   members:
-    output: false
+    output: true
     permalink: /:collection/:path/
   sops:
     output: true
