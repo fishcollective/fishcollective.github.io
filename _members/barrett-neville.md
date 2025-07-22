@@ -2,8 +2,8 @@
 title: "Neville Barrett"
 excerpt: "The University of Tasmania"
 external_url: "https://discover.utas.edu.au/Neville.Barrett"
-image: 
-header: /assets/images/profiles/nev_barrett.jpg
+image: /assets/images/profiles/nev_barrett.jpg
+header:
   teaser: /assets/images/profiles/nev_barrett.jpg
 sidebar:
   - title: "Organisation"
