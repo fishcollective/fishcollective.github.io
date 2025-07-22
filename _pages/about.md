@@ -10,7 +10,7 @@ toc: true
 
 # Background
 ---
-<img style="float: right;" src="/assets/images/Steve_Lindfield_BRUV.jpg">
+<img style="max-width: 50%; float: right;" src="/assets/images/Steve_Lindfield_BRUV.jpg">
 For more than a decade, baited remote underwater (BRUV) users across Australia have been collaborating and sharing data under the informal banner of the ‘National BRUVs Working Group’. This group have used mono- and stereo-video imagery for the discovery, description, and management of the marine environment (Harvey et al. 2021) of fish and shark assemblages, and to characterise benthic biota (Langlois et al. 2021). Through collaboration and the sharing of data (FAIR principles, Wilkinson et al. 2015; CARE principles) the group have informed local, national, and international environmental reporting, management, and policy (e.g. MacNeil et al. 2020; Bosch et al. 2021; Goetze et al. 2021; Simpfendorfer et al. 2023; Goetze et al. 2024).
 
 In November 2024, the National BRUVs Working Group held a workshop in New South Wales with two key goals: 
