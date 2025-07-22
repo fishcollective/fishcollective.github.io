@@ -5,5 +5,5 @@ permalink: /members/
 collection: members
 entries_layout: grid
 classes: wide
+collection_render: custom/member-grid-item
 ---
-
