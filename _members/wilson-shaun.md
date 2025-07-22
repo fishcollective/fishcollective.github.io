@@ -1,6 +1,8 @@
 ---
 title: "Shaun Wilson"
 excerpt: "The Australian Institute of Marine Science"
+external_url: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKxQsqPiFIHRT5fg1AHx0igbG-dWoIWsN7g&s
 header:
   teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKxQsqPiFIHRT5fg1AHx0igbG-dWoIWsN7g&s
 sidebar:

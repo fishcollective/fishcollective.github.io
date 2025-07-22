@@ -1,6 +1,8 @@
 ---
 title: "Daniel Ierodiaconou"
 excerpt: "Deakin University"
+external_url: 
+image: https://pbs.twimg.com/profile_images/3571835057/5818a8030de3086dbd3eddfb326c7d50_400x400.jpeg
 header:
   teaser: https://pbs.twimg.com/profile_images/3571835057/5818a8030de3086dbd3eddfb326c7d50_400x400.jpeg
 sidebar:

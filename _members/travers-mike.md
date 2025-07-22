@@ -1,6 +1,8 @@
 ---
 title: "Mike Travers"
 excerpt: "Department of Primary Industries and Regional Development, WA"
+external_url: 
+image: https://i1.rgstatic.net/ii/profile.image/583257729015808-1516070887197_Q512/Michael-Travers.jpg
 header:
   teaser: https://i1.rgstatic.net/ii/profile.image/583257729015808-1516070887197_Q512/Michael-Travers.jpg
 sidebar:

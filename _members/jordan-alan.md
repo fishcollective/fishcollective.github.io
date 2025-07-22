@@ -1,6 +1,8 @@
 ---
 title: "Alan Jordan"
 excerpt: "The University of Tasmania"
+external_url: 
+image: https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE
 header:
   teaser: "https://media.licdn.com/dms/image/v2/D5603AQFSOpnUvj21NQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672793430525?e=2147483647&v=beta&t=f8hdCGmLyHzvWOpLmxqCxdM_lZAbmKS_K5GluJ53VmE"
 sidebar:

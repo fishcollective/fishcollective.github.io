@@ -1,6 +1,8 @@
 ---
 title: "Conrad Speed"
 excerpt: "The Australian Institute of Marine Science"
+external_url: 
+image: https://www.aims.gov.au/sites/default/files/2024-03/conrad_speed_300px.jpg
 header:
   teaser: https://www.aims.gov.au/sites/default/files/2024-03/conrad_speed_300px.jpg
 sidebar:

@@ -1,6 +1,8 @@
 ---
 title: "Nathan Knott"
 excerpt: "NSW Department of Primary Industries"
+external_url: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
 header:
   teaser: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
 sidebar:

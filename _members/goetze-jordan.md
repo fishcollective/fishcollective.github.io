@@ -1,6 +1,8 @@
 ---
 title: "Jordan Goetze"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
+external_url: 
+image: /assets/images/profiles/jordan_goetze.jpg
 header:
   teaser: /assets/images/profiles/jordan_goetze.jpg
 sidebar:

@@ -1,6 +1,8 @@
 ---
 title: "Euan Harvey"
 excerpt: "Curtin University"
+external_url: 
+image: https://i1.rgstatic.net/ii/profile.image/272511149539332-1441983129393_Q512/Euan-Harvey.jpg
 header:
   teaser: https://i1.rgstatic.net/ii/profile.image/272511149539332-1441983129393_Q512/Euan-Harvey.jpg
 sidebar:

@@ -1,6 +1,8 @@
 ---
 title: "Andrew Olds"
 excerpt: "University of the Sunshine Coast"
+external_url: 
+image: https://i1.rgstatic.net/ii/profile.image/11431281086872175-1664342750385_Q512/Andrew-Olds.jpg
 header:
   teaser: https://i1.rgstatic.net/ii/profile.image/11431281086872175-1664342750385_Q512/Andrew-Olds.jpg
 sidebar:

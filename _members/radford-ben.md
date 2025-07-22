@@ -1,6 +1,8 @@
 ---
 title: "Ben Radford"
 excerpt: "The Australian Institute of Marine Science"
+external_url: 
+image: https://spaceandearthconference.com/wp-content/uploads/2023/10/Ben-Radford.png
 header:
   teaser: https://spaceandearthconference.com/wp-content/uploads/2023/10/Ben-Radford.png
 sidebar:

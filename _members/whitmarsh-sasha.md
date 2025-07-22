@@ -1,6 +1,8 @@
 ---
 title: "Sasha Whitmarsh"
 excerpt: "Deakin University"
+external_url: 
+image: /assets/images/profiles/sasha_whitmarsh.jpg
 header:
   teaser: /assets/images/profiles/sasha_whitmarsh.jpg
 sidebar:

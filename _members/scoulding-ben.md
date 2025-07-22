@@ -1,6 +1,8 @@
 ---
 title: "Ben Scoulding"
 excerpt: "CSIRO"
+external_url: 
+image: https://i1.rgstatic.net/ii/profile.image/299751204507651-1448477664757_Q512/Ben-Scoulding.jpg
 header:
   teaser: https://i1.rgstatic.net/ii/profile.image/299751204507651-1448477664757_Q512/Ben-Scoulding.jpg
 sidebar:

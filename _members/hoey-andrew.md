@@ -1,6 +1,8 @@
 ---
 title: "Andrew Hoey"
 excerpt: "James Cook University"
+external_url: 
+image: /assets/images/profiles/andrew_hoey.png
 header:
   teaser: /assets/images/profiles/andrew_hoey.png
 sidebar:

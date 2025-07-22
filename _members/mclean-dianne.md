@@ -1,6 +1,8 @@
 ---
 title: "Dianne McLean"
 excerpt: "The Australian Institute of Marine Science"
+external_url: 
+image: /assets/images/profiles/dianne_mclean.png
 header:
   teaser: /assets/images/profiles/dianne_mclean.png
 sidebar:

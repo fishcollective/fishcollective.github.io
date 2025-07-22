@@ -1,6 +1,8 @@
 ---
 title: "Jamie Hicks"
 excerpt: "Department of Environment, Water & Natural Resources, SA"
+external_url: 
+image: https://pbs.twimg.com/profile_images/1060474099636391938/NG1LuwBP_400x400.jpg
 header:
   teaser: https://pbs.twimg.com/profile_images/1060474099636391938/NG1LuwBP_400x400.jpg
 sidebar:

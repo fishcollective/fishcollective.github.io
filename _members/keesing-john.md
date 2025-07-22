@@ -1,6 +1,8 @@
 ---
 title: "John Keesing"
 excerpt: "CSIRO"
+external_url: 
+image: /assets/images/profiles/john_keesing.jpg
 header:
   teaser: /assets/images/profiles/john_keesing.jpg
 sidebar:

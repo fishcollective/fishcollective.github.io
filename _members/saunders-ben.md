@@ -1,6 +1,8 @@
 ---
 title: "Ben Saunders"
 excerpt: "Curtin University"
+external_url: 
+image: https://media.licdn.com/dms/image/v2/D5603AQFIpfbXfZB5Ew/profile-displayphoto-shrink_200_200/B56ZWypbDyGUAY-/0/1742458958891?e=2147483647&v=beta&t=oNifgYtyqgdmFbplA9yjQdlDvhZTL5z_lS70riauKQA
 header:
   teaser: https://media.licdn.com/dms/image/v2/D5603AQFIpfbXfZB5Ew/profile-displayphoto-shrink_200_200/B56ZWypbDyGUAY-/0/1742458958891?e=2147483647&v=beta&t=oNifgYtyqgdmFbplA9yjQdlDvhZTL5z_lS70riauKQA
 sidebar:

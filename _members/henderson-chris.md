@@ -1,6 +1,8 @@
 ---
 title: "Chris Henderson"
 excerpt: "University of the Sunshine Coast"
+external_url: 
+image: https://research.usc.edu.au/rep/researcherProfileImage?userId=3712174870002621&institution=61USC_INST
 header:
   teaser: https://research.usc.edu.au/rep/researcherProfileImage?userId=3712174870002621&institution=61USC_INST
 sidebar:

@@ -1,6 +1,7 @@
 ---
 title: "Leanne Currey-Randall"
 excerpt: "The Australian Institute of Marine Science"
+external_url: 
 image: https://www.aims.gov.au/sites/default/files/2020-01/AmericanSamoa_Currey_300px%20profile.jpg
 header:
   teaser: https://www.aims.gov.au/sites/default/files/2020-01/AmericanSamoa_Currey_300px%20profile.jpg

@@ -1,6 +1,8 @@
 ---
 title: "Rachel Przeslawski"
 excerpt: "The University of Tasmania"
+external_url: 
+image: /assets/images/profiles/rachel_przeslawski.jpg
 header:
   teaser: /assets/images/profiles/rachel_przeslawski.jpg
 sidebar:

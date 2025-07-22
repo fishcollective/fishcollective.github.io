@@ -1,6 +1,8 @@
 ---
 title: "Hamish Malcolm"
 excerpt: "NSW Department of Primary Industries"
+external_url: 
+image: /assets/images/profiles/hamish_malcolm.jpg
 header:
   teaser: /assets/images/profiles/hamish_malcolm.jpg
 sidebar:

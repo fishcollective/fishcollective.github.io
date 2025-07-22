@@ -1,6 +1,8 @@
 ---
 title: "Mark Meekan"
 excerpt: "The University of Western Australia"
+external_url: 
+image: /assets/images/profiles/mark_meekan.jpg
 header:
   teaser: /assets/images/profiles/mark_meekan.jpg
 sidebar:

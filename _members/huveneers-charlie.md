@@ -1,6 +1,8 @@
 ---
 title: "Charlie Huveneers"
 excerpt: "Flinders University"
+external_url: 
+image:  /assets/images/profiles/charlie_huveneers.jpg
 header:
   teaser: /assets/images/profiles/charlie_huveneers.jpg
 sidebar:

@@ -1,6 +1,8 @@
 ---
 title: "Jacquomo Monk"
 excerpt: "The University of Tasmania"
+external_url: 
+image: /assets/images/profiles/jac_monk.jpg
 header:
   teaser: /assets/images/profiles/jac_monk.jpg
 sidebar:

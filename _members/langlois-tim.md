@@ -1,6 +1,8 @@
 ---
 title: "Tim Langlois"
 excerpt: "The University of Western Australia"
+external_url: 
+image: /assets/images/profiles/tim_langlois.jpg
 header:
   teaser: /assets/images/profiles/tim_langlois.jpg
 sidebar:

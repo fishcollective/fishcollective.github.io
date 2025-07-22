@@ -1,6 +1,8 @@
 ---
 title: "Stephen Newman"
 excerpt: "Department of Primary Industries and Regional Development, WA"
+external_url: 
+image: https://i1.rgstatic.net/ii/profile.image/11431281181264891-1691995460388_Q512/Stephen-Newman-7.jpg
 header:
   teaser: https://i1.rgstatic.net/ii/profile.image/11431281181264891-1691995460388_Q512/Stephen-Newman-7.jpg
 sidebar:

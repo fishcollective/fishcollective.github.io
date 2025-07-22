@@ -1,6 +1,8 @@
 ---
 title: "Thomas Holmes"
 excerpt: "Department of Biodiversity, Conservation and Attractions, WA"
+external_url: 
+image:  /assets/images/profiles/tom_holmes.jpg
 header:
   teaser: /assets/images/profiles/tom_holmes.jpg
 sidebar:
