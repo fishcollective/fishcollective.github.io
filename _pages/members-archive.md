@@ -4,28 +4,36 @@ title: Members of the Fish Collective
 permalink: /members/
 ---
 
-{% include header.html
-   image=site.baseurl | append: '/assets/images/Steve_Lindfield_BRUV.jpg'
-   overlay_filter=0.3
-   caption="Meet the people behind the science"
-%}
+# {% include header.html
+#    image=site.baseurl | append: '/assets/images/Steve_Lindfield_BRUV.jpg'
+#    overlay_filter=0.3
+#    caption="Meet the people behind the science"
+# %}
 
-<div class="grid-container">
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+<div class="archive archive--grid">
+  <div class="archive__grid">
+
     {% for member in site.members %}
-      <article class="cell archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <a href="{{ member.external_url | default: member.url }}" target="_blank" rel="noopener" class="archive__item-title">
+      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <a href="{{ member.external_url | default: member.url }}" 
+           class="archive__item-link" 
+           target="_blank" rel="noopener">
+
           {% if member.image %}
-            <div class="archive__item-teaser">
-              <img src="{{ member.image }}" alt="{{ member.title }}">
-            </div>
+            <img class="archive__item-image" src="{{ member.image }}" alt="{{ member.title }}">
+          {% else %}
+            <!-- Optional placeholder -->
+            <img class="archive__item-image" src="/assets/images/placeholder.png" alt="No image">
           {% endif %}
-          <h2 itemprop="headline">{{ member.title }}</h2>
+
+          <h2 class="archive__item-title" itemprop="headline">{{ member.title }}</h2>
         </a>
+
         {% if member.excerpt %}
-          <p itemprop="description">{{ member.excerpt | markdownify }}</p>
+          <p class="archive__item-excerpt" itemprop="description">{{ member.excerpt | markdownify }}</p>
         {% endif %}
       </article>
     {% endfor %}
+
   </div>
 </div>
