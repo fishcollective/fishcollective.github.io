@@ -1,6 +1,7 @@
 <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
 
-  <a class="archive__item-link" href="{{ entry.external_url | default: entry.url }}" target="_blank" rel="noopener">
+  <a class="archive__item-link" href="{{ external_url | default: url }}" target="_blank" rel="noopener">
+
     {% if entry.image %}
       <img class="archive__item-image" src="{{ entry.image | relative_url }}" alt="{{ entry.title }}">
     {% endif %}
