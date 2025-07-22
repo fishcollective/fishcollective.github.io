@@ -1,17 +1,19 @@
 <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+
   <a href="{{ entry.external_url | default: entry.url }}" 
      class="archive__item-title" 
      target="_blank" rel="noopener">
+    {% if entry.image %}
+      <div class="archive__item-teaser">
+        <img src="{{ entry.image }}" alt="{{ entry.title }}">
+      </div>
+    {% endif %}
+    
     <h2 class="archive__item-title" itemprop="headline">{{ entry.title }}</h2>
   </a>
-
-  {% if entry.image %}
-    <div class="archive__item-teaser">
-      <img src="{{ entry.image }}" alt="{{ entry.title }}">
-    </div>
-  {% endif %}
 
   {% if entry.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ entry.excerpt | markdownify }}</p>
   {% endif %}
+
 </article>
