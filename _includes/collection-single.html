@@ -2,8 +2,9 @@
 
   <a class="archive__item-link" href="{{ entry.external_url | default: entry.url }}" target="_blank" rel="noopener">
     {% if entry.image %}
-      <img class="archive__item-image" src="{{ entry.image }}" alt="{{ entry.title }}">
+      <img class="archive__item-image" src="{{ entry.image | relative_url }}" alt="{{ entry.title }}">
     {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">{{ entry.title }}</h2>
   </a>
 
