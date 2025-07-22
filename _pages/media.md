@@ -19,7 +19,12 @@ header:
         </a>
         <p class="media-subtitle">{{ media.excerpt }}</p>
         {% if media.excerpt_long %}
-          <p class="media-subtitle-long">{{ media.excerpt_long }}</p>
+          <p class="media-subtitle-long">
+            {{ media.excerpt_long }}
+          </p>
+          <a class="read-more" href="{{ media.external_url | default: media.url }}" target="_blank" rel="noopener">
+            Read more →
+          </a>
         {% endif %}
       </div>
       <div class="media-image">
