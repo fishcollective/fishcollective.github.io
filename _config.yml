@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brooke Gibbons"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Perth, Australia"
   email            :
   links:
     - label: "Email"
@@ -223,7 +223,7 @@ kramdown:
 # Collections
 collections:
   members:
-    output: true
+    output: false
     permalink: /:collection/:path/
   sops:
     output: true
