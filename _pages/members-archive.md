@@ -4,12 +4,6 @@ title: Members of the Fish Collective
 permalink: /members/
 ---
 
-# {% include header.html
-#    image=site.baseurl | append: '/assets/images/Steve_Lindfield_BRUV.jpg'
-#    overlay_filter=0.3
-#    caption="Meet the people behind the science"
-# %}
-
 <div class="archive archive--grid">
   <div class="archive__grid">
 
