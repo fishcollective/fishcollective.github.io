@@ -20,7 +20,6 @@ header:
         </div>
         <h3 class="sop-title">{{ sop.title }}</h3>
       </a>
-      <p class="sop-excerpt">{{ sop.excerpt }}</p>
                 <a class="read-more" href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
             View SOP →
           </a>
