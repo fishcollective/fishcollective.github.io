@@ -116,6 +116,7 @@ search: false
   display: inline-block;
   padding: 1rem;
   font-size: 0.9rem;
+  margin-top: 0.25rem; /* Optional fine-tuning */
   color: #0077cc;
   text-decoration: none;
   font-weight: 600;
@@ -165,7 +166,7 @@ search: false
 
 .sop-excerpt {
   margin: 1rem 1rem 0rem; /* ↓ reduces spacing below the excerpt */
-  padding: 0.5rem 1rem; /* top-bottom padding reduced */
+  padding: 0.5rem 0rem; /* top-bottom padding reduced */
   color: #444;
   font-size: 0.95rem;
   line-height: 1.4;
