@@ -234,6 +234,9 @@ collections:
   media:
     output: true
     permalink: /:collection/:path/
+  annotation:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -359,6 +362,14 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: annotation
     values:
       layout: single
       author_profile: false
