@@ -45,6 +45,6 @@ header:
 </div>
 
 ## Quality Control Tools
-
-
-## Training Materials
+- CheckEM web app
+- User Manual
+- R Package
