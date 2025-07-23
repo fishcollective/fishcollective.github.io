@@ -164,8 +164,8 @@ search: false
 }
 
 .sop-excerpt {
-  margin: 1rem 1rem 0.5rem;  /* top, sides, bottom */
-  padding: 1rem;   /* vertical spacing inside block */
+  margin: 1rem 1rem 0rem; /* ↓ reduces spacing below the excerpt */
+  padding: 0.5rem 1rem; /* top-bottom padding reduced */
   color: #444;
   font-size: 0.95rem;
   line-height: 1.4;
