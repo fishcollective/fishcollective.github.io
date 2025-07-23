@@ -355,3 +355,11 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
