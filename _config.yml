@@ -246,6 +246,9 @@ collections:
   qctools:
     output: true
     permalink: /:collection/:path/
+  ga:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:

@@ -60,3 +60,20 @@ header:
     </div>
   {% endfor %}
 </div>
+
+## Data Storage and Sharing
+<div class="sops-grid">
+  {% for sop in site.ga %}
+    <div class="sops-card">
+      <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
+        <div class="sop-image">
+          <img src="{{ sop.image }}" alt="{{ sop.title }}">
+        </div>
+        <h3 class="sop-title">{{ sop.title }}</h3>
+      </a>
+                <a class="read-more" href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
+            View SOP →
+          </a>
+    </div>
+  {% endfor %}
+</div>
