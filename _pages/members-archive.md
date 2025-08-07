@@ -11,9 +11,17 @@ header:
 ---
 
 ## Steering Committee
-- Alan
-- Di
-- Dan
+<div class="members-grid">
+  {% for steering in site.steering %}
+    <div class="member-card">
+      <a href="{{ steering.external_url | default: steering.url }}" target="_blank" rel="noopener">
+        <img src="{{ steering.image }}" alt="{{ steering.title }}">
+        <h3>{{ steering.title }}</h3>
+      </a>
+      <p class="steering-subtitle">{{ steering.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>
 
 ## Working Group
 <div class="members-grid">
