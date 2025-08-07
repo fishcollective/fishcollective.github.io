@@ -10,6 +10,8 @@ main:
     url: /sops/
   - title: "Media"
     url: /media/
+  - title: "Request Data"
+    url: /data/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
