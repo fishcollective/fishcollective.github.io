@@ -240,6 +240,12 @@ collections:
   steering:
     output: true
     permalink: /:collection/:path/
+  quicklinks:
+    output: true
+    permalink: /:collection/:path/
+  qctools:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
