@@ -33,9 +33,6 @@ feature_row:
 
 
 <h1>Quick Links</h1>
-
-- GlobalArchive (Visit the centralised repository of national datasets)
-
 <div class="sops-grid">
   {% for sop in site.quicklinks %}
     <div class="sops-card">
@@ -45,9 +42,6 @@ feature_row:
         </div>
         <h3 class="sop-title">{{ sop.title }}</h3>
       </a>
-                <a class="read-more" href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
-            View SOP →
-          </a>
     </div>
   {% endfor %}
 </div>
