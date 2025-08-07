@@ -4,7 +4,7 @@ title: "Request access to the Australian National BRUVs synthesis data"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
-permalink: /about/
+permalink: /data/
 toc: true
 ---
 
