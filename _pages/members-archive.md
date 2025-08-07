@@ -10,6 +10,12 @@ header:
   overlay_filter: 0.3
 ---
 
+## Steering Committee
+- Alan
+- Di
+- Dan
+
+## Working Group
 <div class="members-grid">
   {% for member in site.members %}
     <div class="member-card">
@@ -22,3 +28,5 @@ header:
   {% endfor %}
 </div>
 
+## Members
+- Coming soon...
