@@ -2,7 +2,7 @@
 title: "New South Wales BRUVs Workshop"
 excerpt: "Subtitle"
 excerpt_long: "Collaboration and open data are transforming marine science through the ARDC-supported Fish and Shark Data Partnership. Recently, researchers from 15 research and management institutions brought together over 30,000 Baited Underwater Remote Video samples and came together for a productive workshop in New South Wales. The workshop focused on synthesising fish survey datasets from Australia using GlobalArchive.org (an online repository of marine imagery data of fish assemblages) and advancing data-quality and data-sharing practices."
-image: /assets/images/media/ardc.png
+image: /assets/images/workshop_NSW.png
 external_url: "https://ardc.edu.au/article/watching-over-our-fish-and-sharks/"
 share: false
 related: false
