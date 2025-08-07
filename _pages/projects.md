@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
   overlay_filter: 0.3
 ---
-
 <div class="media-grid">
   {% for media in site.projects %}
     <div class="media-card">
@@ -33,4 +32,3 @@ header:
     </div>
   {% endfor %}
 </div>
-
