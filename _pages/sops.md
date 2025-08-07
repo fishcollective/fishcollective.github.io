@@ -45,10 +45,6 @@ header:
 </div>
 
 ## Quality Control Tools
-- CheckEM web app
-- User Manual
-- R Package
-
 <div class="sops-grid">
   {% for sop in site.qctools %}
     <div class="sops-card">
