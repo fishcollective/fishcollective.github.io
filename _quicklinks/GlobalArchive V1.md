@@ -1,6 +1,6 @@
 ---
 title: "GlobalArchive V1"
-image: /assets/images/sops/bruv.jpg
+image: /assets/images/sops/earth-globe.png
 external_url: https://globalarchive.org/
 share: false
 related: false
