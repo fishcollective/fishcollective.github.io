@@ -2,9 +2,9 @@
 title: "Mike Cappo"
 excerpt: "The Australian Institute of Marine Science?"
 external_url: 
-image: 
+image: /assets/images/profiles/mike-cappo.png
 header:
-  teaser: 
+  teaser: /assets/images/profiles/mike-cappo.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
