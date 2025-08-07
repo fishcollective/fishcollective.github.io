@@ -1,7 +1,7 @@
 ---
-permalink: /projects/
+permalink: /meetings/
 layout: splash
-title: "Projects & Initiatives"
+title: "Meetings & Training"
 excerpt: ""
 toc: false
 classes: wide
