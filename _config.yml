@@ -237,6 +237,9 @@ collections:
   annotation:
     output: true
     permalink: /:collection/:path/
+  steering:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
