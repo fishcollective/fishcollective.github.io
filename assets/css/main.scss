@@ -207,7 +207,7 @@ search: false
 }
 
 .logo-card img {
-  max-height: 120px; /* keeps all logos same visual height */
+  max-height: 150px; /* keeps all logos same visual height */
   max-width: 90%;   /* stops extra wide logos overflowing */
   object-fit: contain;
   filter: grayscale(20%);
