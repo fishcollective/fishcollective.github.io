@@ -9,7 +9,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   video:
-    src: /assets/videos/GB-BV-P06_G.hebraicum_77cm_16.0m.mp4
+    src: /assets/videos/GB-BV-P06_G.hebraicum_77cm_16.0m_small.mp4
 ---
 
 ## Steering Committee

@@ -8,7 +8,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   video:
-    src: /assets/videos/SB-BV-082_C._rubescens_L._miniatus_C._auricularis_C._westaustralis_38.7m.mp4
+    src: /assets/videos/SB-BV-082_C._rubescens_L._miniatus_C._auricularis_C._westaustralis_38.7m_small.mp4
 
 ## Standard Operating Procedures
 <div class="sops-grid">

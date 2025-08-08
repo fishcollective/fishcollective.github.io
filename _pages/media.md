@@ -9,7 +9,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   video:
-    src: /assets/videos/EG-CPO-014_N.ferrugineus_and_busy_reef_7m.mp4
+    src: /assets/videos/EG-CPO-014_N.ferrugineus_and_busy_reef_7m_small.mp4
 ---
 
 <div class="media-grid">
