@@ -202,12 +202,12 @@ search: false
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 120px; /* all cards same height */
+  height: 200px; /* all cards same height */
   padding: 10px;
 }
 
 .logo-card img {
-  max-height: 80px; /* keeps all logos same visual height */
+  max-height: 120px; /* keeps all logos same visual height */
   max-width: 90%;   /* stops extra wide logos overflowing */
   object-fit: contain;
   filter: grayscale(20%);
