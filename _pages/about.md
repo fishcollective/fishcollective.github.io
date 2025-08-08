@@ -3,7 +3,8 @@ layout: splash
 title: "About us"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
+  video:
+    src: /assets/videos/DM-BV-86_G.speciosus_28.7m.mp4
 permalink: /about/
 toc: true
 ---

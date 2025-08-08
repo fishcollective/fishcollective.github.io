@@ -6,8 +6,9 @@ collection: members
 entries_layout: grid
 classes: wide
 header:
-  overlay_image: /assets/images/Steve_Lindfield_BRUV.jpg
-  overlay_filter: 0.3
+  overlay_color: "#5e616c"
+  video:
+    src: /assets/videos/GB-BV-P06_G.hebraicum_77cm_16.0m.mp4
 ---
 
 ## Steering Committee
