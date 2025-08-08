@@ -2,6 +2,7 @@
 permalink: /media/
 layout: splash
 title: "Media"
+excerpt: "<br><br><br>"
 excerpt: ""
 toc: false
 classes: wide

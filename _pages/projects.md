@@ -2,6 +2,7 @@
 permalink: /meetings/
 layout: splash
 title: "Meetings & Training"
+excerpt: "<br><br><br>"
 excerpt: ""
 toc: false
 classes: wide

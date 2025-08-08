@@ -4,7 +4,7 @@ main:
     url: /data/
   - title: "Current Members"
     url: /members/
-  - title: "Past Events"
+  - title: "Events"
     url: /meetings/
   - title: "Guides"
     url: /sops/
