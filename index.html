@@ -45,3 +45,57 @@ feature_row:
     </div>
   {% endfor %}
 </div>
+
+
+<h1>Logos to add</h1>
+- AIMS
+- CSIRO
+- Curtin
+- Deakin
+- DBCA
+- DPIRD WA
+- Flinders
+- JCU
+- NSW DPI
+- DEWNR
+- UTAS
+- UWA
+- UniSC
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 20px;
+  align-items: center;
+  justify-items: center;
+  padding: 20px;
+  background: #f9f9f9; /* optional: subtle background */
+}
+
+.logo-grid img {
+  max-height: 60px; /* keeps height consistent */
+  width: auto;
+  object-fit: contain;
+  filter: grayscale(20%); /* subtle uniformity */
+  transition: filter 0.3s ease;
+}
+
+.logo-grid img:hover {
+  filter: grayscale(0%); /* color pop on hover */
+}
+
+<section class="logo-grid">
+  <img src="assets/logos/aims.jpg" alt="AIMS logo">
+  <img src="assets/logos/csiro.png" alt="CSIRO logo">
+  <img src="assets/logos/curtin.png" alt="Curtin University logo">
+  <img src="assets/logos/deakin.png" alt="Deakin University logo">
+  <img src="assets/logos/dbca.png" alt="DBCA logo">
+  <img src="assets/logos/dpird.jpg" alt="DPIRD WA logo">
+  <img src="assets/logos/flinders.png" alt="Flinders University logo">
+  <img src="assets/logos/jcu.png" alt="JCU logo">
+  <img src="assets/logos/nswdpi.jpg" alt="NSW DPI logo">
+  <img src="assets/logos/dewnr.png" alt="DEWNR logo">
+  <img src="assets/logos/utas.png" alt="UTAS logo">
+  <img src="assets/logos/uwa.jpg" alt="UWA logo">
+  <img src="assets/logos/unisc.png" alt="UniSC logo">
+</section>
