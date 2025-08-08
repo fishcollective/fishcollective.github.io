@@ -1,5 +1,5 @@
 ---
-title: Members of the Fish Collective
+title: Members of The Fish Collective
 layout: splash
 permalink: /members/
 collection: members
