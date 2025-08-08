@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Members"
+  - title: "Join or Request Data"
+    url: /data/
+  - title: "Current Members"
     url: /members/
-  - title: "Meetings & Training"
+  - title: "Past Events"
     url: /meetings/
-  - title: "SOPs & Guides"
+  - title: "Guides"
     url: /sops/
   - title: "Media"
     url: /media/
-  - title: "Request Data"
-    url: /data/
+  - title: "About"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
