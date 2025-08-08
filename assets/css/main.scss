@@ -189,22 +189,23 @@ search: false
 
 .logo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* was 120px */
   gap: 20px;
   align-items: center;
   justify-items: center;
   padding: 20px;
-  background: #f9f9f9; /* optional: subtle background */
+  background: #f9f9f9;
 }
 
 .logo-grid img {
-  max-height: 60px; /* keeps height consistent */
+  max-height: 70px; /* slightly taller */
+  min-width: 140px; /* ensures they're a bit wider */
   width: auto;
   object-fit: contain;
-  filter: grayscale(20%); /* subtle uniformity */
+  filter: grayscale(20%);
   transition: filter 0.3s ease;
 }
 
 .logo-grid img:hover {
-  filter: grayscale(0%); /* color pop on hover */
+  filter: grayscale(0%);
 }
