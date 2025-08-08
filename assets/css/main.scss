@@ -189,23 +189,32 @@ search: false
 
 .logo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* was 120px */
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 20px;
-  align-items: center;
-  justify-items: center;
   padding: 20px;
   background: #f9f9f9;
 }
 
-.logo-grid img {
-  max-height: 70px; /* slightly taller */
-  min-width: 140px; /* ensures they're a bit wider */
-  width: auto;
-  object-fit: contain;
-  filter: grayscale(20%);
-  transition: filter 0.3s ease;
+.logo-card {
+  background: white; /* optional: makes logos stand out */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px; /* all cards same height */
+  padding: 10px;
 }
 
-.logo-grid img:hover {
+.logo-card img {
+  max-height: 80px; /* keeps all logos same visual height */
+  max-width: 90%;   /* stops extra wide logos overflowing */
+  object-fit: contain;
+  filter: grayscale(20%);
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.logo-card img:hover {
   filter: grayscale(0%);
+  transform: scale(1.05); /* subtle zoom on hover */
 }
