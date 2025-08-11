@@ -27,19 +27,6 @@ excerpt: Advancing the understanding and management of marine ecosystems through
   {% endfor %}
 </div>
 
-<div class="sops-grid">
-  {% for sop in site.frontpage %}
-    <div class="sops-card">
-      <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
-        <div class="sop-image">
-          <img src="{{ sop.image }}" alt="{{ sop.title }}">
-        </div>
-        <h3 class="sop-title">{{ sop.title }}</h3>
-      </a>
-    </div>
-  {% endfor %}
-</div>
-
 <h1>Funders & partners:</h1>
 <section class="logo-grid">
   <div class="logo-card"><img src="assets/logos/aims.jpg" alt="AIMS logo"></div>
