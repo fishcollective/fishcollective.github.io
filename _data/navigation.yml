@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Join or Request Data"
+  - title: "Join"
+    url: /join/
+  - title: "Request Data"
     url: /data/
   - title: "Current Members"
     url: /members/
