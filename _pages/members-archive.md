@@ -39,4 +39,46 @@ header:
 </div>
 
 ## Members
-- Coming soon...
+The following members have agreed to have their names and affiliations listed publicly.
+
+<!-- Table HTML starts here -->
+<table id="members-table" class="display" style="width:100%">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Affiliation</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<!-- DataTables CSS and JS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>
+const sheetUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo3-WuQ8dBK5BqRkdPoZSsqf39ZgA9mnJLcVt0e6UNa-D6oI58I4IXS4Ra-oGF4hM-xXOlIPjIo6If/pub?gid=837565785&single=true&output=csv"; // Replace with your Google Sheets CSV link
+
+fetch(sheetUrl)
+  .then(response => response.text())
+  .then(csvText => {
+    const rows = csvText.split("\n").slice(1); // skip header row
+    const tableBody = document.querySelector("#members-table tbody");
+
+    rows.forEach(row => {
+      const cols = row.split(",");
+      const name = cols[0]?.trim();
+      const affiliation = cols[1]?.trim();
+      const consent = cols[2]?.trim().toLowerCase();
+
+      if (consent === "yes") {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
+        tableBody.appendChild(tr);
+      }
+    });
+
+    $('#members-table').DataTable();
+  });
+</script>
