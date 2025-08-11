@@ -84,7 +84,9 @@ fetch(sheetUrl)
       });
 
       // Initialize DataTables
-      $('#members-table').DataTable();
+      $('#members-table').DataTable({
+      autoWidth: false
+      });
     })
     .catch(err => console.error("Error loading data:", err));
 });

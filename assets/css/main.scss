@@ -238,3 +238,8 @@ search: false
   background-color: rgba(94, 97, 108, 0.5); // match overlay_color
   z-index: -1;
 }
+
+/* Make sure DataTables wrapper fills 100% width */
+#members-table_wrapper {
+  width: 100% !important;
+}
