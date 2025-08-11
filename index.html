@@ -32,46 +32,8 @@ feature_row:
 
 {% include feature_row %}
 
-
 <div class="sops-grid">
   {% for sop in site.frontpage %}
-    <div class="sops-card">
-      <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
-        <div class="sop-image">
-          <img src="{{ sop.image }}" alt="{{ sop.title }}">
-        </div>
-        <h3 class="sop-title">{{ sop.title }}</h3>
-      </a>
-    </div>
-  {% endfor %}
-</div>
-
-
-
-
-<div class="sops-grid">
-  {% for sop in site.quicklinks %}
-    <div class="sops-card">
-      <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
-        <div class="sop-image">
-          <img src="{{ sop.image }}" alt="{{ sop.title }}">
-        </div>
-        <h3 class="sop-title">{{ sop.title }}</h3>
-      </a>
-    </div>
-  {% endfor %}
-</div>
-
-
-
-
-
-
-
-
-<h1>Quick Links:</h1>
-<div class="sops-grid">
-  {% for sop in site.quicklinks %}
     <div class="sops-card">
       <a href="{{ sop.external_url | default: sop.url }}" target="_blank" rel="noopener">
         <div class="sop-image">
