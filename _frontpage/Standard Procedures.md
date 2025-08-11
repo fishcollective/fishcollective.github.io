@@ -5,4 +5,5 @@ image: /assets/images/CheckEM-workflow.png
 external_url: https://thefishcollective.github.io/sops/
 share: false
 related: false
+button: Learn more
 ---
