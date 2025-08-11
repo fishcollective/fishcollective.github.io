@@ -4,7 +4,7 @@ title: "About us"
 header:
   overlay_color: "#5e616c"
   video:
-    src: /assets/videos/DM-BV-86_G.speciosus_28.7m.mp4
+    src: /assets/videos/DM-BV-86_G.speciosus_28.7m_small.mp4
 permalink: /about/
 toc: true
 ---

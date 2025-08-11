@@ -9,7 +9,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   video:
-    src: /assets/videos/SAL-BV-C07_Carcharhinus-taurus_66.3m.MP4_0067191.mp4
+    src: /assets/videos/SAL-BV-C07_Carcharhinus-taurus_66.3m.MP4_0067191_small.mp4
 ---
 <div class="media-grid">
   {% for media in site.projects %}
