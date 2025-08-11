@@ -249,6 +249,9 @@ collections:
   ga:
     output: true
     permalink: /:collection/:path/
+  frontpage:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
