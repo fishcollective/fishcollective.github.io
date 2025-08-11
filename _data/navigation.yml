@@ -14,6 +14,8 @@ main:
     url: /media/
   - title: "About"
     url: /about/
+  - title: "Highlights"
+    url: /videos/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
