@@ -19,16 +19,16 @@ document.addEventListener("DOMContentLoaded", function() {
   const gid = "837565785"; // your sheet tab GID
   const sheetUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:json&gid=${gid}`;
 
-  fetch(sheetUrl)
+fetch(sheetUrl)
     .then(res => res.text())
     .then(text => {
-      // Remove Google Sheets' JSONP wrapper
+      // Remove Google's JSONP wrapper
       const json = JSON.parse(text.substr(47).slice(0, -2));
       const rows = json.table.rows;
-
       const tableBody = document.querySelector("#members-table tbody");
 
-      rows.forEach(row => {
+      // Skip the first row (header)
+      rows.slice(1).forEach(row => {
         const name = row.c[0] ? row.c[0].v : "";
         const affiliation = row.c[1] ? row.c[1].v : "";
 
@@ -39,6 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       });
 
+      // Initialize DataTables
       $('#members-table').DataTable();
     })
     .catch(err => console.error("Error loading data:", err));
