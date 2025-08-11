@@ -61,27 +61,25 @@ The following members have agreed to have their names and affiliations listed pu
 document.addEventListener("DOMContentLoaded", function() {
   const sheetUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo3-WuQ8dBK5BqRkdPoZSsqf39ZgA9mnJLcVt0e6UNa-D6oI58I4IXS4Ra-oGF4hM-xXOlIPjIo6If/pub?gid=837565785&single=true&output=csv";
 
-  fetch(sheetUrl)
-    .then(response => response.text())
-    .then(csvText => {
-      const rows = csvText.trim().split("\n").slice(1);
-      const tableBody = document.querySelector("#members-table tbody");
+fetch(sheetUrl)
+  .then(response => response.text())
+  .then(csvText => {
+    const rows = csvText.trim().split("\n").slice(1); // skip header
+    const tableBody = document.querySelector("#members-table tbody");
 
-      rows.forEach(row => {
-        const cols = row.split(",");
-        const name = cols[0]?.trim();
-        const affiliation = cols[1]?.trim();
-        const consent = cols[2]?.trim().toLowerCase();
+    rows.forEach(row => {
+      const cols = row.split(",");
+      const name = cols[0]?.trim();
+      const affiliation = cols[1]?.trim();
 
-        if (consent === "yes") {
-          const tr = document.createElement("tr");
-          tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
-          tableBody.appendChild(tr);
-        }
-      });
-
-      $('#members-table').DataTable();
+      if (name && affiliation) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
+        tableBody.appendChild(tr);
+      }
     });
-});
+
+    $('#members-table').DataTable();
+  });
 </script>
 {% endraw %}
