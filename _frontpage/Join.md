@@ -5,4 +5,5 @@ image: /assets/images/sops/checkem-app.png
 external_url: https://thefishcollective.github.io/join/
 share: false
 related: false
+button: Learn more
 ---

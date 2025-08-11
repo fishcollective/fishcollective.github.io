@@ -6,31 +6,26 @@ header:
   video:
     src: /assets/videos/GB-BV-005_C.auratus_36.1m_small.mp4
 excerpt: Advancing the understanding and management of marine ecosystems through the application of cutting-edge underwater imagery survey methods and analysis, robust data standards, education and training, advancing standardised and sustained monitoring of fish populations.
-feature_row:
-  - image_path: /assets/images/workshop_NSW.png
-    alt: "members"
-    title: "Members"
-    excerpt: "Learn more about our current members."
-    url: "/members/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/new_synthesis.png
-    alt: "projects"
-    title: "Meetings & Training"
-    excerpt: "See what projects and iniatives our members are working on."
-    url: "/projects/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/CheckEM-generic-video_workflow.drawio (2).png
-    alt: "100% free"
-    title: "Standard Procedures & Quality Control Tools"
-    excerpt: "Explore our best-practice standards, and the open-source toolkit for quality control checks on fish  data."
-    url: "/sops/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
+<div class="features-row">
+  {% for feature in site.frontpage %}
+    <div class="feature-card">
+      <a href="{{ feature.external_url | default: feature.url }}" target="_blank" rel="noopener" class="feature-link">
+        <div class="feature-image">
+          <img src="{{ feature.image }}" alt="{{ feature.title }}">
+        </div>
+        <h3 class="feature-title">{{ feature.title }}</h3>
+        {% if feature.excerpt %}
+          <p class="feature-excerpt">{{ feature.excerpt }}</p>
+        {% endif %}
+        {% if feature.button %}
+          <span class="feature-button">{{ feature.button }}</span>
+        {% endif %}
+      </a>
+    </div>
+  {% endfor %}
+</div>
 
 <div class="sops-grid">
   {% for sop in site.frontpage %}
