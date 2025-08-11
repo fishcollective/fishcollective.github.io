@@ -13,4 +13,4 @@ toc: true
 # Details on how to access data are coming soon! Watch this space.
 ---
 
-
+Please [sign up to become a member](/join) of The Fish Collective before accessing the data.
