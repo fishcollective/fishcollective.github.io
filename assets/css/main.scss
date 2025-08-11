@@ -328,3 +328,42 @@ search: false
 .feature-button:hover {
   background-color: #2F6677;
 }
+
+<style>
+  .steps-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap; /* ensures they stack on small screens */
+  }
+
+  .step {
+    flex: 1 1 300px; /* grow, shrink, min-width */
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.05);
+  }
+
+  .step h2 {
+    margin-top: 0;
+  }
+
+  .step iframe {
+    width: 100%;
+    border: none;
+    display: block;
+  }
+
+  .whatsapp-button {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #6CA4AD;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 6px;
+  }
+
+  .whatsapp-button:hover {
+    background: #2F6677;
+  }
