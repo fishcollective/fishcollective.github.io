@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Members List</title>
-
-  <!-- DataTables CSS -->
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-  </style>
-</head>
-<body>
-
-<h2>Members</h2>
-<p>The following members have agreed to have their names and affiliations listed publicly.</p>
+{% raw %}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 
 <table id="members-table" class="display" style="width:100%">
   <thead>
@@ -29,41 +11,37 @@
   <tbody></tbody>
 </table>
 
-<!-- jQuery (must load first) -->
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-
-<!-- DataTables JS -->
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
 <script>
-$(document).ready(function() {
+document.addEventListener("DOMContentLoaded", function() {
   const sheetUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo3-WuQ8dBK5BqRkdPoZSsqf39ZgA9mnJLcVt0e6UNa-D6oI58I4IXS4Ra-oGF4hM-xXOlIPjIo6If/pub?gid=837565785&single=true&output=csv";
 
   fetch(sheetUrl)
     .then(response => response.text())
     .then(csvText => {
-      const rows = csvText.trim().split("\n").slice(1); // skip header row
-      const tableBody = $("#members-table tbody");
+      // Parse CSV using PapaParse to handle quotes, commas, and newlines
+      const parsed = Papa.parse(csvText.trim(), { skipEmptyLines: true });
+      const rows = parsed.data.slice(1); // skip header row
+      const tableBody = document.querySelector("#members-table tbody");
 
-      rows.forEach(row => {
-        const cols = row.split(",");
+      rows.forEach(cols => {
         const name = cols[0]?.trim();
         const affiliation = cols[1]?.trim();
-        const consent = cols[2]?.trim().toLowerCase();
+        const consent = cols[2]?.trim().toLowerCase().replace(/['"]+/g, "");
 
         if (consent === "yes") {
-          tableBody.append(`<tr><td>${name}</td><td>${affiliation}</td></tr>`);
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
+          tableBody.appendChild(tr);
         }
       });
 
-      // Initialize DataTables after rows are added
       $('#members-table').DataTable();
     })
-    .catch(error => {
-      console.error("Error loading CSV:", error);
-    });
+    .catch(err => console.error("Error loading CSV:", err));
 });
 </script>
-
-</body>
-</html>
+{% endraw %}
