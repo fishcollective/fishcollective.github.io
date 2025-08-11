@@ -46,7 +46,7 @@ The following members have agreed to have their names and affiliations listed pu
   <thead>
     <tr>
       <th>Name</th>
-      <th>Affiliation</th>
+      <th>Institute/Organisation/Affiliation</th>
     </tr>
   </thead>
   <tbody></tbody>
