@@ -56,30 +56,35 @@ The following members have agreed to have their names and affiliations listed pu
 
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const sheetUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo3-WuQ8dBK5BqRkdPoZSsqf39ZgA9mnJLcVt0e6UNa-D6oI58I4IXS4Ra-oGF4hM-xXOlIPjIo6If/pub?gid=837565785&single=true&output=csv";
 
-fetch(sheetUrl)
-  .then(response => response.text())
-  .then(csvText => {
-    const rows = csvText.trim().split("\n").slice(1); // skip header
-    const tableBody = document.querySelector("#members-table tbody");
+  fetch(sheetUrl)
+    .then(response => response.text())
+    .then(csvText => {
+      // Use PapaParse to handle quotes and commas safely
+      const parsed = Papa.parse(csvText.trim(), { skipEmptyLines: true });
+      const rows = parsed.data.slice(1); // Skip header
 
-    rows.forEach(row => {
-      const cols = row.split(",");
-      const name = cols[0]?.trim();
-      const affiliation = cols[1]?.trim();
+      const tableBody = document.querySelector("#members-table tbody");
 
-      if (name && affiliation) {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
-        tableBody.appendChild(tr);
-      }
-    });
+      rows.forEach(cols => {
+        const name = cols[0]?.trim();
+        const affiliation = cols[1]?.trim();
 
-    $('#members-table').DataTable();
-  });
+        if (name && affiliation) {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${name}</td><td>${affiliation}</td>`;
+          tableBody.appendChild(tr);
+        }
+      });
+
+      $('#members-table').DataTable();
+    })
+    .catch(err => console.error("Error loading CSV:", err));
+});
 </script>
 {% endraw %}
