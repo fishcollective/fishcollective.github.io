@@ -386,3 +386,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: frontpage
+    values:
+      layout: single
+      author_profile: false
+      share: true
