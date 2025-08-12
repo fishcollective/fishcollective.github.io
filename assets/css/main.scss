@@ -405,3 +405,9 @@ search: false
     background: #e9ecef;
     text-align: left;
 }
+
+.action-button:link,
+.action-button:visited {
+    background: #6CA4AD; /* same as normal */
+    color: white;        /* keep text white */
+}

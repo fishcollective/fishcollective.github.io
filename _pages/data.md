@@ -10,13 +10,10 @@ permalink: /data/
 toc: true
 ---
 
-# Details on how to access data are coming soon! Watch this space.
+# More details on how to access data are coming soon! Watch this space.
 ---
 
-Please [sign up to become a member](/join) of The Fish Collective before accessing the data.
-
 <div class="steps-container">
-
   <!-- Step 1 -->
   <div class="step">
     <h2>Step 1: Join The Fish Collective</h2>
@@ -56,7 +53,7 @@ Please [sign up to become a member](/join) of The Fish Collective before accessi
         </tr>
         <tr>
           <td>Dr Dianne McLean, Research Team Leader, Marine Fauna Ecology and Pressures</td>
-          <td>AIMS</td>
+          <td>Australian Insititute of Marine Science</td>
         </tr>
         <tr>
           <td>Dr Tim Langlois, Researcher, Marine Ecology</td>
@@ -85,8 +82,8 @@ Please [sign up to become a member](/join) of The Fish Collective before accessi
   <!-- Step 5 -->
   <div class="step">
     <h2>Step 5: Access Data via API</h2>
-    <p>Once approved, you’ll receive credentials and documentation to access The Fish Collective’s data API.</p>
-    <a href="#" class="action-button">API Documentation</a>
+    <p>Once approved, you’ll receive credentials and documentation to access The Fish Collective’s data via GlobalArchive.</p>
+    <a href="#" class="action-button disabled">GlobalArchive Documentation<br><small>(Coming Soon)</small></a>
   </div>
 
 </div>
