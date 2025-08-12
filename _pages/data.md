@@ -82,8 +82,8 @@ toc: true
   <!-- Step 5 -->
   <div class="step">
     <h2>Step 5: Access Data via API</h2>
-    <p>Once approved, you’ll receive credentials and documentation to access The Fish Collective’s data via GlobalArchive.</p>
-    <a href="#" class="action-button disabled">GlobalArchive Documentation<br><small>(Coming Soon)</small></a>
+    <p>Once approved, you’ll receive instructions to access The Fish Collective’s data via GlobalArchive.</p>
+    <a href="#" class="action-button disabled">GlobalArchive Instructions<br><small>(Coming Soon)</small></a>
   </div>
 
 </div>
