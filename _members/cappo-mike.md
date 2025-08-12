@@ -1,6 +1,6 @@
 ---
 title: "Mike Cappo"
-excerpt: "The Australian Institute of Marine Science?"
+excerpt: "The Australian Institute of Marine Science"
 external_url: 
 image: /assets/images/profiles/mike-cappo.png
 header:
