@@ -29,12 +29,12 @@ toc: true
   </div>
   
   <!-- Step 3 -->
-  <div class="step">
+<div class="step full-width">
     <h2>Step 3: Submit Request and Review Committee Assessment</h2>
     <p>Submit a data request using the below form. Your application will be reviewed by our committee to ensure alignment with community goals and ethical standards.</p>
     <p><iframe 
       src="https://docs.google.com/forms/d/e/1FAIpQLScsg-Mqx3cgLupidf1w_HLFmaYF50rTSbH9ODx3qznplYH-9Q/viewform?embedded=true" 
-      height="620" 
+      height="1000" 
       marginheight="0" 
       marginwidth="0">
     </iframe></p>
