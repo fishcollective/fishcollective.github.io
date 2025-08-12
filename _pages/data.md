@@ -30,9 +30,15 @@ toc: true
   
   <!-- Step 3 -->
 <div class="step">
-    <h2>Step 3: Submit Request and Review Committee Assessment</h2>
-    <p>Submit a data request using the below form. Your application will be reviewed by our committee to ensure alignment with community goals and ethical standards.</p>
+    <h2>Step 3: Submit Data Request</h2>
+    <p>Submit a data request using the below form.</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScsg-Mqx3cgLupidf1w_HLFmaYF50rTSbH9ODx3qznplYH-9Q/viewform?embedded=true" class="action-button">Submit a Request</a>
+  </div>
+  
+  <!-- Step 4 -->
+<div class="step full-width">
+    <h2>Step 4: Review Committee Assessment</h2>
+    <p>Your application will be reviewed by our committee to ensure alignment with community goals and ethical standards.</p>
         <p><h3>Review Committee</h3></p>
     <table class="committee-table">
       <thead>
@@ -74,18 +80,16 @@ toc: true
     </table>
   </div>
 
-  <!-- Step 3 -->
+  <!-- Step 5 -->
   <div class="step">
-    <h2>Step 4: Submit a Deed Poll</h2>
+    <h2>Step 5: Submit a Deed Poll</h2>
     <p>Complete and submit your Deed Poll to formalise your participation and data use agreement.</p>
     <a href="#" class="action-button disabled">Submit Deed Poll<br><small>(Coming Soon)</small></a>
   </div>
 
-
-
-  <!-- Step 5 -->
+  <!-- Step 6 -->
   <div class="step">
-    <h2>Step 5: Access Data via GlobalArchive</h2>
+    <h2>Step 6: Access Data via GlobalArchive</h2>
     <p>Once approved, you’ll receive instructions to access The Fish Collective’s data via GlobalArchive.</p>
     <a href="#" class="action-button disabled">GlobalArchive Instructions<br><small>(Coming Soon)</small></a>
   </div>
