@@ -27,18 +27,17 @@ toc: true
     <p>Understand the terms for accessing and contributing data. This document outlines responsibilities, usage rights, and protections.</p>
     <a href="#" class="action-button disabled">Data Sharing Agreement<br><small>(Coming Soon)</small></a>
   </div>
-
+  
   <!-- Step 3 -->
   <div class="step">
-    <h2>Step 3: Submit a Deed Poll</h2>
-    <p>Complete and submit your Deed Poll to formalise your participation and data use agreement.</p>
-    <a href="#" class="action-button disabled">Submit Deed Poll<br><small>(Coming Soon)</small></a>
-  </div>
-
-  <!-- Step 4 -->
-  <div class="step">
-    <h2>Step 4: Review Committee Assessment</h2>
-    <p>Your application will be reviewed by our committee to ensure alignment with community goals and ethical standards.</p>
+    <h2>Step 3: Submit Request and Review Committee Assessment</h2>
+    <p>Submit a data request using the below form. Your application will be reviewed by our committee to ensure alignment with community goals and ethical standards.</p>
+    <p><iframe 
+      src="https://docs.google.com/forms/d/e/1FAIpQLScsg-Mqx3cgLupidf1w_HLFmaYF50rTSbH9ODx3qznplYH-9Q/viewform?embedded=true" 
+      height="620" 
+      marginheight="0" 
+      marginwidth="0">
+    </iframe></p>
     <table class="committee-table">
       <thead>
         <tr>
@@ -79,9 +78,18 @@ toc: true
     </table>
   </div>
 
+  <!-- Step 3 -->
+  <div class="step">
+    <h2>Step 4: Submit a Deed Poll</h2>
+    <p>Complete and submit your Deed Poll to formalise your participation and data use agreement.</p>
+    <a href="#" class="action-button disabled">Submit Deed Poll<br><small>(Coming Soon)</small></a>
+  </div>
+
+
+
   <!-- Step 5 -->
   <div class="step">
-    <h2>Step 5: Access Data via API</h2>
+    <h2>Step 5: Access Data via GlobalArchive</h2>
     <p>Once approved, you’ll receive instructions to access The Fish Collective’s data via GlobalArchive.</p>
     <a href="#" class="action-button disabled">GlobalArchive Instructions<br><small>(Coming Soon)</small></a>
   </div>
