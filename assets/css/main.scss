@@ -366,3 +366,42 @@ search: false
 .whatsapp-button:hover {
     background: #2F6677;
 }
+
+.action-button {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #6CA4AD;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.action-button:hover {
+    background: #2F6677;
+}
+
+.action-button.disabled {
+    background: #ccc;
+    pointer-events: none;
+    color: #666;
+}
+
+.committee-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.committee-table th,
+.committee-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.committee-table th {
+    background: #e9ecef;
+    text-align: left;
+}
