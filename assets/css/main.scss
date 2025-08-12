@@ -365,6 +365,7 @@ search: false
 
 .whatsapp-button:hover {
     background: #2F6677;
+    color: white;
 }
 
 .action-button {
@@ -380,6 +381,7 @@ search: false
 
 .action-button:hover {
     background: #2F6677;
+    color: white;
 }
 
 .action-button.disabled {
@@ -408,6 +410,11 @@ search: false
 
 .action-button:link,
 .action-button:visited {
+    background: #6CA4AD; /* same as normal */
+    color: white;        /* keep text white */
+}
+
+.whatsapp-button:visited {
     background: #6CA4AD; /* same as normal */
     color: white;        /* keep text white */
 }
