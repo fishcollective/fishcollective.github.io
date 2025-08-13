@@ -2,12 +2,12 @@
 title: "Charlie Huveneers"
 excerpt: "Flinders University"
 external_url: 
-image:  /assets/images/profiles/charlie_huveneers.jpg
+image:  /assets/images/profiles/Elliston-85b.jpg
 header:
-  teaser: /assets/images/profiles/charlie_huveneers.jpg
+  teaser: /assets/images/profiles/Elliston-85b.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/profiles/charlie_huveneers.jpg
+    image: /assets/images/profiles/Elliston-85b.jpg
     image_alt: "Profile pic"
     text: "text"
   - title: "Responsibilities"
