@@ -15,7 +15,7 @@ header:
   {% for video in site.data.videos %}
     <div class="video-item">
       {% if video.platform == "youtube" %}
-        <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/{{ video.id }}?autoplay=0" frameborder="0" allowfullscreen></iframe>
       {% elsif video.platform == "vimeo" %}
         <iframe src="https://player.vimeo.com/video/{{ video.id }}" frameborder="0" allowfullscreen></iframe>
       {% endif %}
