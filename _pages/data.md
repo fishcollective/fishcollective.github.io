@@ -83,8 +83,8 @@ toc: true
   <!-- Step 5 -->
   <div class="step">
     <h2>Step 5: Submit a Deed Poll</h2>
-    <p>Complete and submit your Deed Poll to formalise your participation and data use agreement.</p>
-    <a href="#" class="action-button disabled">Submit Deed Poll<br><small>(Coming Soon)</small></a>
+    <p>Complete and submit a Deed Poll to formalise your participation and data use agreement.</p>
+    <p>You will be sent the Deed Poll after the review process..</p>
   </div>
 
   <!-- Step 6 -->
