@@ -1,6 +1,6 @@
 ---
 title: "Nathan Knott"
-excerpt: "NSW Department of Primary Industries"
+excerpt: "NSW Department of Primary Industries and Regional Development "
 external_url: 
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhgQcSsuDIo5693Zw4SXe_WK62q5ZjxC2ew&s
 header:
@@ -23,7 +23,5 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-
-Add text about Di here.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
