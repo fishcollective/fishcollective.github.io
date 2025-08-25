@@ -1,6 +1,6 @@
 ---
 title: "David Harasti"
-excerpt: "NSW Department of Primary Industries"
+excerpt: "NSW Department of Primary Industries and Regional Development "
 external_url: 
 image: /assets/images/profiles/david_harasti.jpg
 header:
