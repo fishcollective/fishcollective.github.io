@@ -50,7 +50,7 @@ toc: true
       <tbody>
         <tr>
           <td>Dr Nathan Knott, Senior Research Scientist, Fisheries Research;</td>
-          <td>NSW Department of Primary Industries</td>
+          <td>NSW Department of Primary Industries and Regional Development</td>
         </tr>
         <tr>
           <td>Dr Dianne McLean, Research Team Leader, Marine Fauna Ecology and Pressures</td>
